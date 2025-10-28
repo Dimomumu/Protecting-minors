@@ -228,7 +228,7 @@
 
         客户经理也表扬你："您树立了守法经营的榜样！"`,
                 choices: [
-                    { text: "继续", next: "honestStar" }
+                    { text: "诚信经营之星", next: "honestStar" }
                 ]
             },
             
@@ -241,7 +241,7 @@
 
         学生无奈地离开。后来市场监管人员巡查时，肯定了你的严格把关。`,
                 choices: [
-                    { text: "继续", next: "correctChoice" }
+                    { text: "正确的选择", next: "correctChoice" }
                 ]
             },
             
@@ -252,7 +252,7 @@
 
         一周后，学校老师来店采购时提到："听说您教育了我们的学生，谢谢您帮我们守护孩子！"`,
                 choices: [
-                    { text: "继续", next: "guardResponsibility" }
+                    { text: "守护的责任", next: "guardResponsibility" }
                 ]
             },
             
@@ -310,7 +310,7 @@
 
         市场监管部门接到举报，对你进行了警告处罚。`,
                 choices: [
-                    { text: "继续", next: "smallProfitBigLoss" }
+                    { text: "贪小失大", next: "smallProfitBigLoss" }
                 ]
             },
             
@@ -321,7 +321,7 @@
 
         客户经理得知后说："您做得对，这种借口很常见，必须核实清楚！"`,
                 choices: [
-                    { text: "继续", next: "industryPositive" }
+                    { text: "行业正能量", next: "industryPositive" }
                 ]
             },
             
@@ -354,7 +354,7 @@
 
         你因向未成年人售烟被处以罚款。`,
                 choices: [
-                    { text: "继续", next: "businessLesson" }
+                    { text: "经营教训", next: "businessLesson" }
                 ]
             },
             
@@ -365,7 +365,7 @@
 
         你说明情况后，父亲生气地对孩子说："你又撒谎！"然后向你道歉："对不起，孩子不懂事，谢谢您这么负责！"`,
                 choices: [
-                    { text: "继续", next: "valueReflection" }
+                    { text: "价值体现", next: "valueReflection" }
                 ]
             },
             
